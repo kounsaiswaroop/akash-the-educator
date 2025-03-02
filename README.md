@@ -4,7 +4,7 @@ Explore Akash the Educator's website for top-quality Hindi and Banking study mat
 
 ## Website Overview
 
-Visit the website: [Akash the Educator](https://github.com/kounsaiswaroop/akash-the-educator)
+Visit the website: [Akash the Educator](https://akashtheeducator.netlify.app)
 
 ### About Akash Kumar
 
@@ -14,14 +14,13 @@ Akash Kumar is a highly respected Hindi and banking educator, known for his exce
 
 #### Hindi Courses
 - **Unlocking the World of Class 12 Hindi**
-  - Explore engaging stories, improve grammar, and enhance reading and writing skills with our comprehensive Class 12 Hindi course. [Check Out](https://github.com/kounsaiswaroop/akash-the-educator/Hindi/hindi.html)
+  - Explore engaging stories, improve grammar, and enhance reading and writing skills with our comprehensive Class 12 Hindi course. 
 
 - **Mastering Class 10 Hindi**
-  - Master Class 10 Hindi with engaging literature, advanced grammar, and enhanced writing skills. Build a solid foundation for future success! [Check Out](https://github.com/kounsaiswaroop/akash-the-educator/Hindi/hindi.html)
-
+  - Master Class 10 Hindi with engaging literature, advanced grammar, and enhanced writing skills. Build a solid foundation for future success! 
 #### Banking Courses
 - **Mastering Modern Banking: Comprehensive Course for Future Bankers**
-  - Master modern banking with our course covering essentials like financial products, regulations, financial management, and customer service. [Check Out](https://github.com/kounsaiswaroop/akash-the-educator/Banking/banking.html)
+  - Master modern banking with our course covering essentials like financial products, regulations, financial management, and customer service. 
 
 ### Features
 
@@ -43,7 +42,6 @@ Akash Kumar is a highly respected Hindi and banking educator, known for his exce
 ### Contact
 
 - **Join our Community:** [Telegram](https://t.me/akashtheeducator)
-- **Support Us:** [Buy Me a Coffee](https://buymeacoffee.com/ancientcracker/e/286853)
 
 ## License
 
