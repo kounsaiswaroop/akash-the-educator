@@ -47,7 +47,7 @@ Akash Kumar is a highly respected Hindi and banking educator, known for his exce
 
 ## License
 
-© 2024: All Rights Reserved - Made with ❤️ by AncientCracker
+© 2024: All Rights Reserved - Made with ❤️ by Kounsaiswaroop
 
 ---
 
